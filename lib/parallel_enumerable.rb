@@ -1,0 +1,5 @@
+require 'parallel'
+require 'parallel_enumerable/version'
+require 'parallel_enumerable/proxy'
+require 'parallel_enumerable/enumerable'
+require 'parallel_enumerable/active_record'
