@@ -1,5 +1,7 @@
 # ParallelEnumerable
 
+[![Gem Version](https://badge.fury.io/rb/parallel_enumerable.png)](https://rubygems.org/gems/parallel_enumerable)
+
 Extend Enumerable module with parallel gem features
 
 ## Installation
